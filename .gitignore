@@ -1,2 +1,4 @@
 .env
 .idea
+
+incidents/__pycache__/
