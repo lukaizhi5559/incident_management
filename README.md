@@ -3,6 +3,8 @@
 
 This is a full-stack **Incident Reporting and Management System** designed to help security teams log, track, and manage security incidents in real-time. Built with **Django** and **Django Rest Framework** (backend) and **React 18+** (frontend), this system offers a scalable and interactive platform for reporting and visualizing security incidents.
 
+![App Screenshot](./public/cribl-screenshot.png)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)

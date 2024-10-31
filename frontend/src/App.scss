@@ -1,0 +1,17 @@
+/* src/App.css */
+
+:root {
+  /* Define margin and padding variables */
+  --margin-small: 5px;
+  --padding-small: 5px;
+
+  /* You can define more variables for consistency */
+  --margin-medium: 10px;
+  --padding-medium: 10px;
+  --margin-large: 20px;
+  --padding-large: 20px;
+}
+
+button {
+  margin: var(--margin-small);
+}
